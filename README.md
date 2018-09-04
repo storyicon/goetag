@@ -1,4 +1,4 @@
-# goetag [![Build Status](https://travis-ci.org/storyicon/goetag.svg?branch=master)](https://travis-ci.org/storyicon/goetag)
+# goetag [![Build Status](https://travis-ci.org/storyicon/goetag.svg?branch=master)](https://travis-ci.org/storyicon/goetag) [![Go Report Card](https://goreportcard.com/badge/github.com/storyicon/goetag)](https://goreportcard.com/report/github.com/storyicon/goetag)
 
 [English Document](#English)  
 [中文文档](#Chinese)
