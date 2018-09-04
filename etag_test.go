@@ -97,7 +97,9 @@ func TestGetEtagByPath(t *testing.T) {
 			args: args{
 				filepath: "./LICENSE",
 			},
-			want: "FrMUx-u31ZmUSYGQi38-0zow5486",
+			want: "Fn3wWVlwmbt9zyXSqa7fr0Rl9y2N",
+			//local license file: FrMUx-u31ZmUSYGQi38-0zow5486
+			//on trails: Fn3wWVlwmbt9zyXSqa7fr0Rl9y2N
 		},
 	}
 	for _, tt := range tests {
