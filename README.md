@@ -1,6 +1,6 @@
 # goetag [![Build Status](https://travis-ci.org/storyicon/goetag.svg?branch=master)](https://travis-ci.org/storyicon/goetag)
 
-[English Document](#English)
+[English Document](#English)  
 [中文文档](#Chinese)
 
 <h2 id="English">English Document</h2>
