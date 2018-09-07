@@ -1,4 +1,4 @@
-# goetag [![Build Status](https://travis-ci.org/storyicon/goetag.svg?branch=master)](https://travis-ci.org/storyicon/goetag) [![Go Report Card](https://goreportcard.com/badge/github.com/storyicon/goetag)](https://goreportcard.com/report/github.com/storyicon/goetag) [![Coverage Status](https://coveralls.io/repos/github/storyicon/goetag/badge.svg?branch=master)](https://coveralls.io/github/storyicon/goetag?branch=master)
+# goetag [![Build Status](https://travis-ci.org/storyicon/goetag.svg?branch=master)](https://travis-ci.org/storyicon/goetag) [![Go Report Card](https://goreportcard.com/badge/github.com/storyicon/goetag)](https://goreportcard.com/report/github.com/storyicon/goetag) [![Coverage Status](https://coveralls.io/repos/github/storyicon/goetag/badge.svg?branch=master)](https://coveralls.io/github/storyicon/goetag?branch=master) [![Join the chat at https://gitter.im/storyicon/goetag](https://badges.gitter.im/storyicon/goetag.svg)](https://gitter.im/storyicon/goetag?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [English Document](#English)  
 [中文文档](#Chinese)
