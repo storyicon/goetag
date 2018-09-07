@@ -72,7 +72,7 @@ Qetag 地址是 https://github.com/qiniu/qetag
 
 基于 Qetag 的算法, goetag 扩展了两个导出方法，名为`GetEtagByString`，`GetEtagByBytes`，并重新实现了`GetEtagByPath`
 
-> 本 Package 生成的哈希值与七牛云生成的哈希值是完全一样的
+> 本 Package 生成的哈希值与七牛云生成的哈希值完全相同
 
 ```
 package main
